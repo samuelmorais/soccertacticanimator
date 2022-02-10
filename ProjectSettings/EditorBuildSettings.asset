@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Home.unity
+    guid: 7707155cf997f493da41e61a755e2686
+  - enabled: 0
+    path: Assets/Scenes/FootTactic.unity
+    guid: 32af909c245284aac8226b0425b51779
+  - enabled: 0
+    path: Assets/Plugins/Animancer/Examples/01 Basics/01 Simple Playing/Simple Playing.unity
+    guid: 282a8d809865a0c4eb365527784ce028
+  - enabled: 0
+    path: Assets/KreliUI/Demos/Scenes/7. Scene Manager/Example_SceneManager.unity
+    guid: e353a498e42c2b54ea2bd970947a5606
+  - enabled: 0
+    path: Assets/KreliUI/Demos/Scenes/This Scene add to Build Settings/FirstScene.unity
+    guid: fec4aa2e8b110d340ad40e7dd9af1dfd
+  - enabled: 0
+    path: Assets/KreliUI/Demos/Scenes/This Scene add to Build Settings/GameScene1.unity
+    guid: 5784f13b350e42241ae2f8e2fc1cdf5a
+  - enabled: 0
+    path: Assets/KreliUI/Demos/Scenes/This Scene add to Build Settings/GameScene2.unity
+    guid: d68090b0845fa05498642e74d7054a79
+  - enabled: 0
+    path: Assets/KreliUI/Demos/Scenes/This Scene add to Build Settings/MenuScene.unity
+    guid: 8d0edd98087641d44b42ce1ec5e198be
+  - enabled: 0
+    path: Assets/KreliUI/Demos/Scenes/This Scene add to Build Settings/RectangleScene.unity
+    guid: 32f5ce078366de248bf4ad9540d25221
+  - enabled: 0
+    path: Assets/KreliUI/Demos/Scenes/This Scene add to Build Settings/SphereScene.unity
+    guid: b8e9c997de46687448a27dec33f57a8d
+  - enabled: 1
+    path: Assets/Scenes/FootTactic.unity
+    guid: 3be760d409de54ea2b1df3b39a93d2d5
+  m_configObjects: {}
